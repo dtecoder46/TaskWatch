@@ -39,6 +39,6 @@ def stopwatch():
 def main():
     task_name = input("What task do you want to do?: ") # task input
 
-    seconds = stopwatch(seconds_used)
+    seconds = stopwatch()
 
 main()
