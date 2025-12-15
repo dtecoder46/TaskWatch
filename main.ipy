@@ -1,0 +1,14 @@
+
+# Purpose: to run a stopwatch for the user's task
+# Parameters: task
+# Return: TBD
+def stopwatch():
+    pass
+
+# Purpose: call other functions, get task input
+# Parameters: none
+# Return: none
+def main():
+    task_name = input("What task do you want to do?: ") # task input
+
+    
